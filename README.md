@@ -25,7 +25,7 @@ Alternatively, either:
 A code skeleton is given for this lab. From your terminal (mac or WSL/Ubunto) window, you can use the following command to download it:
 
 ```bash
-git clone https://github.com/CISC2200-Spring2024/lab1.git
+git clone https://github.com/CISC2200-Fall-24-Fordham/Lab1.git
 ```
 
 You are asked to finish the following (i.e., the three Todo's in the IntArray.cpp), test and run the program:
